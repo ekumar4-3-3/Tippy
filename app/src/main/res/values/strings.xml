@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tippy</string>
+    <string-array name="choices_array">
+        <item>1 way</item>
+        <item>2 ways</item>
+        <item>3 ways</item>
+        <item>4 ways</item>
+        <item>5 ways</item>
+        <item>6 ways</item>
+        <item>7 ways</item>
+        <item>8 ways</item>
+        <item>9 ways</item>
+        <item>10 ways</item>
+    </string-array>
+</resources>
