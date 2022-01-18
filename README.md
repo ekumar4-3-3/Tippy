@@ -24,7 +24,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-* First project in Kotlin.
+* First project in Kotlin
+* First Android app I have made
 
 ## License
 
